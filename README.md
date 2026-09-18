@@ -4,6 +4,8 @@
 [LinkedIn](https://www.linkedin.com/in/brian-perez-eisenbarth/) ·
 [CV](/assets/brianperezeisenbarth_cv.pdf)
 
+[Research](/research/) · [CV](/assets/cv.pdf)
+
 #### Technical Skills: R, Python, Stata, ArcGIS, MATLAB
 ### About me
 I am a Ph.D. student in Applied Economics and a Sea Grant Fellow Marine Resource Economics. My research focuses on understanding the economic impacts of environmental changes on fisheries. I explore how marine heatwaves and algal blooms affect West Coast fisheries, as well as how offshore wind farm development and rising water temperatures influence East Coast fisheries. Through my work, I aim to provide insights that support sustainable fisheries management and coastal economies in a changing climate.
