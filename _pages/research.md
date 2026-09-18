@@ -27,7 +27,5 @@ farmers choosing an irreversible investment in better management practices.
 
 ### Shared Seas: Evaluating the Impacts of Emerging Ocean Uses on U.S. Fisheries
 
-**Abstract:**  
-This project studies...
 
 
