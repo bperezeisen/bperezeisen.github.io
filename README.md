@@ -1,4 +1,8 @@
 # Phd Student
+[Email](mailto:you@example.com) ·
+[GitHub](https://github.com/yourusername) ·
+[LinkedIn](https://www.linkedin.com/in/yourusername/) ·
+[CV](/assets/cv.pdf)
 
 #### Technical Skills: R, Python, Stata, ArcGIS, MATLAB
 ### About me
