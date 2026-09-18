@@ -3,7 +3,7 @@
 [GitHub](https://github.com/bperezeisen) ·
 [LinkedIn](https://www.linkedin.com/in/brian-perez-eisenbarth/) ·
 [CV](/assets/brianperezeisenbarth_cv.pdf)
-
+[Research](/research/)
 
 #### Technical Skills: R, Python, Stata, ArcGIS, MATLAB
 ### About me
