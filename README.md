@@ -4,7 +4,6 @@
 [LinkedIn](https://www.linkedin.com/in/brian-perez-eisenbarth/) ·
 [CV](/assets/brianperezeisenbarth_cv.pdf)
 
-[Research](/research/) · [CV](/assets/cv.pdf)
 
 #### Technical Skills: R, Python, Stata, ArcGIS, MATLAB
 ### About me
