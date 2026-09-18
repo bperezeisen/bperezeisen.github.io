@@ -20,4 +20,3 @@ I am a Ph.D. student in Applied Economics and a Sea Grant Fellow Marine Resource
 - Fisheries
 - Climate change
 
-### Research
