@@ -1,8 +1,8 @@
 # Phd Student
-[Email](mailto:you@example.com) ·
-[GitHub](https://github.com/yourusername) ·
-[LinkedIn](https://www.linkedin.com/in/yourusername/) ·
-[CV](/assets/cv.pdf)
+[Email](perezeib@oregonstate.edu) ·
+[GitHub](https://github.com/bperezeisen) ·
+[LinkedIn](https://www.linkedin.com/in/bperezeisen/) ·
+[CV](/assets/cv_26 (1).pdf)
 
 #### Technical Skills: R, Python, Stata, ArcGIS, MATLAB
 ### About me
