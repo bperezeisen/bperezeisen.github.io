@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Home"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## About me
 
 I am a Ph.D. student in Applied Economics and a Sea Grant Fellow Marine Resource Economics. My research focuses on understanding the economic impacts of environmental changes on fisheries. I explore how marine heatwaves and algal blooms affect West Coast fisheries, as well as how offshore wind farm development and rising water temperatures influence East Coast fisheries. Through my work, I aim to provide insights that support sustainable fisheries management and coastal economies in a changing climate.
 Getting started
