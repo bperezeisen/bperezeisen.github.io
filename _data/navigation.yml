@@ -25,9 +25,12 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
-    
+  
   - title: "CV"
-    url: /cv/
+    url: /files/brianperezeisenbarth_cv.pdf
+    
+  #- title: "CV"
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
