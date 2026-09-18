@@ -23,7 +23,7 @@ repository               : "bperezeisen/bperezeisen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshotv3.png"
   name             : "Brian Pérez Eisenbarth"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Applied Economics."
